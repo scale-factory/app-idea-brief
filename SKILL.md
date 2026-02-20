@@ -7,7 +7,7 @@ description: >
   brief saved as a markdown file.
 license: Apache-2.0
 metadata:
-  author: scalefactory
+  author: scale-factory
   version: "1.2"
   website: "https://scalefactory.ai"
 ---

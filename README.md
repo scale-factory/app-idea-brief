@@ -7,7 +7,7 @@ A 5-10 minute conversation. A markdown file you can actually use.
 ## Install
 
 ```bash
-npx skills add scalefactory/app-idea-brief
+npx skills add scale-factory/app-idea-brief
 ```
 
 Works with Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, and [25+ other agents](https://agentskills.io).
